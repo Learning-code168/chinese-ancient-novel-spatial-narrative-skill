@@ -1,0 +1,4 @@
+interface:
+  display_name: "中國古代空間敘事論文格式"
+  short_description: "古代空间叙事论文的 Word 格式、脚注和参考文献规范"
+  default_prompt: "Use $zhongguo-gudai-kongjian-xushi-lunwen-geshi to format a Chinese ancient spatial narrative thesis with correct Word styles, footnotes, and references."
